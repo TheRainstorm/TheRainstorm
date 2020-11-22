@@ -43,6 +43,13 @@ I know this is not an easy job, but I think it's fun. If you have any great idea
 
 ❤️Any suggestions will be appreciated!❤️
 
-[![Yuanfy's github stats](https://github-readme-stats.vercel.app/api?username=Therainstorm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Therainstorm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+ <tr>
+   <td><a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" alt="Yuanfy's github stats" src="https://github-readme-stats.vercel.app/api?username=Therainstorm&show_icons=true&hide_border=true" />
+    </a></td>
+    <td><a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therainstorm&layout=compact&hide_border=true" />
+    </a></td>
+  </tr>
+</table>
