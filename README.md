@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-😜 Hello, I'm Fuyan Yuan 😆.
+Hello, I'm Fuyan Yuan 😆.
 
 - 2017~2021: Completed my Bachelor's degree in Computer Science and Technology from Chongqing University (CQU)
 - 2021~:  Studying for Master's degree at the University of Science and Technology of China (USTC)
