@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 Hello, I'm Fuyan Yuan 😆.
 
 - 2017~2021: Completed my Bachelor's degree in Computer Science and Technology from Chongqing University (CQU)
-- 2021~:  Studying for Master's degree at the University of Science and Technology of China (USTC)
+- 2021~2025:  Studying for Master's degree at the University of Science and Technology of China (USTC)
+- 2025~: Living and working in Hefei, Anhui
 
 ------
 
